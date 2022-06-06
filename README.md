@@ -12,7 +12,8 @@ Use python 3.9
 * python -m venv .env
 * source .env/bin/activate
 
-* pip install -r requirments.txt
+
+pip install -r requirments.txt
 
 # Running app
 In terminal or powershell run this command from root directory:
